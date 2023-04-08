@@ -1,0 +1,13 @@
+.box{
+	position: relative;
+	top: 250px;
+	text-align: center;
+	
+}
+.btn{
+	padding: 70px 150px;
+	background-color: lightyellow;
+	border-color: black;
+	display: inline-block;
+}
+
